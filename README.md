@@ -19,7 +19,7 @@ RDKit KNIME Extension 2.4.0
 
 RapidMiner 5.3.15
  - available from http://sourceforge.net/projects/rapidminer/files/1.%20RapidMiner/5.3/
- -
+
 RapidMiner Feature Selection Extension 1.1.4
  - available from http://sourceforge.net/projects/rm-featselext/ and the RapidMiner marketplace
 
