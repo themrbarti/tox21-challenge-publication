@@ -1,4 +1,4 @@
-# tox21-challenge-publication
+# Tox21 Data Challenge publication supplementary material
 Supplementary materials for Tox21 Data Challenge solution of team Dmlab. Companion to the article "Identifying biological pathway interrupting toxins using multi-tree ensembles" published in the special issue of Frontiers in Environmental Science journal.
 
 The publication is currently under review.
